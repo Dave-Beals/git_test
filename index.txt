@@ -1,3 +1,7 @@
 My name is Dave and I’m typing in TextEdit.
 
 This is the second sentence.
+
+My cat’s name is Pickles. She is great, and telling you so should be reflected in my Git.
+
+Ok, here goes.
